@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "BattleTankEditor Editor Win64 Development (BattleTank)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "H:\\Downloads H\\Epic Games\\Unreal Projects\\BattleTank\\.vscode\\compileCommands_BattleTank.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        },
+        {
+            "name": "Win32",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "H:\\Downloads H\\Epic Games\\Unreal Projects\\BattleTank\\.vscode\\compileCommands_Default.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

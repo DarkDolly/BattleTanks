@@ -1,0 +1,117 @@
+[
+	{
+		"file": "H:\\\\Downloads H\\\\Epic Games\\\\Unreal Projects\\\\BattleTank\\\\Source\\\\BattleTank\\\\BattleTank.Build.cs",
+		"command": "cl.exe @\"H:\\Downloads H\\Epic Games\\Unreal Projects\\BattleTank\\.vscode\\compileCommands_Default\\BattleTank.190.rsp\"",
+		"directory": "H:\\Downloads H\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "H:\\\\Downloads H\\\\Epic Games\\\\Unreal Projects\\\\BattleTank\\\\Source\\\\BattleTank\\\\BattleTank.cpp",
+		"command": "cl.exe @\"H:\\Downloads H\\Epic Games\\Unreal Projects\\BattleTank\\.vscode\\compileCommands_Default\\BattleTank.190.rsp\"",
+		"directory": "H:\\Downloads H\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "H:\\\\Downloads H\\\\Epic Games\\\\Unreal Projects\\\\BattleTank\\\\Source\\\\BattleTank\\\\BattleTank.h",
+		"command": "cl.exe @\"H:\\Downloads H\\Epic Games\\Unreal Projects\\BattleTank\\.vscode\\compileCommands_Default\\BattleTank.190.rsp\"",
+		"directory": "H:\\Downloads H\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "H:\\\\Downloads H\\\\Epic Games\\\\Unreal Projects\\\\BattleTank\\\\Source\\\\BattleTank\\\\BattleTankGameModeBase.cpp",
+		"command": "cl.exe @\"H:\\Downloads H\\Epic Games\\Unreal Projects\\BattleTank\\.vscode\\compileCommands_Default\\BattleTank.190.rsp\"",
+		"directory": "H:\\Downloads H\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "H:\\\\Downloads H\\\\Epic Games\\\\Unreal Projects\\\\BattleTank\\\\Source\\\\BattleTank\\\\BattleTankGameModeBase.h",
+		"command": "cl.exe @\"H:\\Downloads H\\Epic Games\\Unreal Projects\\BattleTank\\.vscode\\compileCommands_Default\\BattleTank.190.rsp\"",
+		"directory": "H:\\Downloads H\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "H:\\\\Downloads H\\\\Epic Games\\\\Unreal Projects\\\\BattleTank\\\\Source\\\\BattleTank\\\\Projectile.cpp",
+		"command": "cl.exe @\"H:\\Downloads H\\Epic Games\\Unreal Projects\\BattleTank\\.vscode\\compileCommands_Default\\BattleTank.190.rsp\"",
+		"directory": "H:\\Downloads H\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "H:\\\\Downloads H\\\\Epic Games\\\\Unreal Projects\\\\BattleTank\\\\Source\\\\BattleTank\\\\Projectile.h",
+		"command": "cl.exe @\"H:\\Downloads H\\Epic Games\\Unreal Projects\\BattleTank\\.vscode\\compileCommands_Default\\BattleTank.190.rsp\"",
+		"directory": "H:\\Downloads H\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "H:\\\\Downloads H\\\\Epic Games\\\\Unreal Projects\\\\BattleTank\\\\Source\\\\BattleTank\\\\Tank.cpp",
+		"command": "cl.exe @\"H:\\Downloads H\\Epic Games\\Unreal Projects\\BattleTank\\.vscode\\compileCommands_Default\\BattleTank.190.rsp\"",
+		"directory": "H:\\Downloads H\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "H:\\\\Downloads H\\\\Epic Games\\\\Unreal Projects\\\\BattleTank\\\\Source\\\\BattleTank\\\\Tank.h",
+		"command": "cl.exe @\"H:\\Downloads H\\Epic Games\\Unreal Projects\\BattleTank\\.vscode\\compileCommands_Default\\BattleTank.190.rsp\"",
+		"directory": "H:\\Downloads H\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "H:\\\\Downloads H\\\\Epic Games\\\\Unreal Projects\\\\BattleTank\\\\Source\\\\BattleTank\\\\TankAIController.cpp",
+		"command": "cl.exe @\"H:\\Downloads H\\Epic Games\\Unreal Projects\\BattleTank\\.vscode\\compileCommands_Default\\BattleTank.190.rsp\"",
+		"directory": "H:\\Downloads H\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "H:\\\\Downloads H\\\\Epic Games\\\\Unreal Projects\\\\BattleTank\\\\Source\\\\BattleTank\\\\TankAIController.h",
+		"command": "cl.exe @\"H:\\Downloads H\\Epic Games\\Unreal Projects\\BattleTank\\.vscode\\compileCommands_Default\\BattleTank.190.rsp\"",
+		"directory": "H:\\Downloads H\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "H:\\\\Downloads H\\\\Epic Games\\\\Unreal Projects\\\\BattleTank\\\\Source\\\\BattleTank\\\\TankAimingComponent.cpp",
+		"command": "cl.exe @\"H:\\Downloads H\\Epic Games\\Unreal Projects\\BattleTank\\.vscode\\compileCommands_Default\\BattleTank.190.rsp\"",
+		"directory": "H:\\Downloads H\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "H:\\\\Downloads H\\\\Epic Games\\\\Unreal Projects\\\\BattleTank\\\\Source\\\\BattleTank\\\\TankAimingComponent.h",
+		"command": "cl.exe @\"H:\\Downloads H\\Epic Games\\Unreal Projects\\BattleTank\\.vscode\\compileCommands_Default\\BattleTank.190.rsp\"",
+		"directory": "H:\\Downloads H\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "H:\\\\Downloads H\\\\Epic Games\\\\Unreal Projects\\\\BattleTank\\\\Source\\\\BattleTank\\\\TankBarrel.cpp",
+		"command": "cl.exe @\"H:\\Downloads H\\Epic Games\\Unreal Projects\\BattleTank\\.vscode\\compileCommands_Default\\BattleTank.190.rsp\"",
+		"directory": "H:\\Downloads H\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "H:\\\\Downloads H\\\\Epic Games\\\\Unreal Projects\\\\BattleTank\\\\Source\\\\BattleTank\\\\TankBarrel.h",
+		"command": "cl.exe @\"H:\\Downloads H\\Epic Games\\Unreal Projects\\BattleTank\\.vscode\\compileCommands_Default\\BattleTank.190.rsp\"",
+		"directory": "H:\\Downloads H\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "H:\\\\Downloads H\\\\Epic Games\\\\Unreal Projects\\\\BattleTank\\\\Source\\\\BattleTank\\\\TankMovementComponent.cpp",
+		"command": "cl.exe @\"H:\\Downloads H\\Epic Games\\Unreal Projects\\BattleTank\\.vscode\\compileCommands_Default\\BattleTank.190.rsp\"",
+		"directory": "H:\\Downloads H\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "H:\\\\Downloads H\\\\Epic Games\\\\Unreal Projects\\\\BattleTank\\\\Source\\\\BattleTank\\\\TankMovementComponent.h",
+		"command": "cl.exe @\"H:\\Downloads H\\Epic Games\\Unreal Projects\\BattleTank\\.vscode\\compileCommands_Default\\BattleTank.190.rsp\"",
+		"directory": "H:\\Downloads H\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "H:\\\\Downloads H\\\\Epic Games\\\\Unreal Projects\\\\BattleTank\\\\Source\\\\BattleTank\\\\TankPlayerController.cpp",
+		"command": "cl.exe @\"H:\\Downloads H\\Epic Games\\Unreal Projects\\BattleTank\\.vscode\\compileCommands_Default\\BattleTank.190.rsp\"",
+		"directory": "H:\\Downloads H\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "H:\\\\Downloads H\\\\Epic Games\\\\Unreal Projects\\\\BattleTank\\\\Source\\\\BattleTank\\\\TankPlayerController.h",
+		"command": "cl.exe @\"H:\\Downloads H\\Epic Games\\Unreal Projects\\BattleTank\\.vscode\\compileCommands_Default\\BattleTank.190.rsp\"",
+		"directory": "H:\\Downloads H\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "H:\\\\Downloads H\\\\Epic Games\\\\Unreal Projects\\\\BattleTank\\\\Source\\\\BattleTank\\\\TankTrack.cpp",
+		"command": "cl.exe @\"H:\\Downloads H\\Epic Games\\Unreal Projects\\BattleTank\\.vscode\\compileCommands_Default\\BattleTank.190.rsp\"",
+		"directory": "H:\\Downloads H\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "H:\\\\Downloads H\\\\Epic Games\\\\Unreal Projects\\\\BattleTank\\\\Source\\\\BattleTank\\\\TankTrack.h",
+		"command": "cl.exe @\"H:\\Downloads H\\Epic Games\\Unreal Projects\\BattleTank\\.vscode\\compileCommands_Default\\BattleTank.190.rsp\"",
+		"directory": "H:\\Downloads H\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "H:\\\\Downloads H\\\\Epic Games\\\\Unreal Projects\\\\BattleTank\\\\Source\\\\BattleTank\\\\TankTurret.cpp",
+		"command": "cl.exe @\"H:\\Downloads H\\Epic Games\\Unreal Projects\\BattleTank\\.vscode\\compileCommands_Default\\BattleTank.190.rsp\"",
+		"directory": "H:\\Downloads H\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "H:\\\\Downloads H\\\\Epic Games\\\\Unreal Projects\\\\BattleTank\\\\Source\\\\BattleTank\\\\TankTurret.h",
+		"command": "cl.exe @\"H:\\Downloads H\\Epic Games\\Unreal Projects\\BattleTank\\.vscode\\compileCommands_Default\\BattleTank.190.rsp\"",
+		"directory": "H:\\Downloads H\\Epic Games\\UE_4.26\\Engine\\Source"
+	}
+]

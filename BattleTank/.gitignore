@@ -1,0 +1,15 @@
+###############################
+#Unreal Engine Generated Files#
+###############################
+*Intermediate/
+*Binaries/
+*Saved/
+*DerivedDataCache/
+*Build/
+Content/StarterContent/
+Game Packaged TEST/
+
+###############################
+#Visual Studio Generated files#
+###############################
+*.VC.db
